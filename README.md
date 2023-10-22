@@ -19,9 +19,9 @@ Criação de um projeto a fim de atender os requisitos listados abaixo:
 - [ ] Utilização de cached API
 - [ ] API
 
-
+Utilizar a API da Marvel para realizar o seu teste: 
 ```sh
-Utilizar a API da Marvel para realizar o seu teste: https://developer.marvel.com/
+https://developer.marvel.com/
 ```
 
 ###### APP
